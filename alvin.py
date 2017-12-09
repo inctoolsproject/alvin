@@ -146,7 +146,7 @@ wait = {
     'autoAdd':True,
     'message':"тнх ғor add мe gυyѕ",
     "lang":"JP",
-    "comment":"",
+    "comment":"тнх ғor add мe gυyѕ",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
