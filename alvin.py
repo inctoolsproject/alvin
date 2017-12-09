@@ -144,7 +144,7 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':"",
+    'message':"тнх ғor add мe gυyѕ",
     "lang":"JP",
     "comment":"",
     "commentOn":False,
