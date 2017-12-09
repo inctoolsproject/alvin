@@ -18,8 +18,7 @@ print "==================[Login Success]==================="
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpmsg ="""╔═════════════════
-║       ✟Ƥɾøтøтуρє✟一�:緑   
+helpmsg ="""╔═════════════════  
 ╠═════════════════
 ╠➩〘Help protect〙
 ╠➩〘Help self〙
@@ -36,8 +35,7 @@ UTAMAKAN HURUF BESAR DI AWAL KATA
    http://line.me/ti/p/~alvintriady
 """
 
-helppro ="""╔═════════════════
-║       ✟Ƥɾøтøтуρє✟一�:緑   
+helppro ="""╔═════════════════ 
 ╠═════════════════
 ╠➩〘Protect on/off〙
 ╠➩〘Qr on/off〙
@@ -50,7 +48,6 @@ helppro ="""╔═════════════════
 """
 
 helpself ="""╔═════════════════
-║       ✟Ƥɾøтøтуρє✟一�:緑   
 ╠═════════════════
 ╠➩〘Me〙
 ╠➩〘Myname: 〙
@@ -82,8 +79,7 @@ helpself ="""╔═════════════════
    http://line.me/ti/p/~alvintriady
 """
 
-helpset ="""╔═════════════════
-║       ✟Ƥɾøтøтуρє✟一�:緑   
+helpset ="""╔═════════════════  
 ╠═════════════════
 ╠➩〘Contact on/off〙
 ╠➩〘Autojoin on/off〙
@@ -101,8 +97,7 @@ helpset ="""╔═════════════════
    http://line.me/ti/p/~alvintriady
 """
 
-helpgrup ="""╔═════════════════
-║       ✟Ƥɾøтøтуρє✟一�:緑   
+helpgrup ="""╔═════════════════ 
 ╠═════════════════
 ╠➩〘Link on/off〙
 ╠➩〘Url〙
